@@ -1,5 +1,9 @@
 # Learning Lua
+
 I'm learning how to create programs with Lua! This repository serves as a place to look at my progress in real-time.
 
 ## Table of Contents
-###### Nothing here to see yet.
+
+| Name       | Link                                                                                                    | Date (MM/DD/YYYY) |
+| ---------- | ------------------------------------------------------------------------------------------------------- | ----------------- |
+| helloworld | [helloworld/helloworld.lua](https://github.com/myferr/learning-lua/blob/main/helloworld/helloworld.lua) | 06/20/2025        |
