@@ -1,5 +1,5 @@
 print("Give your input.")
-userinput = io.read("l")
+local user_input = io.read("l")
 
 
 function TestInput(input)
@@ -8,5 +8,5 @@ function TestInput(input)
     end
 end
 
-result = TestInput(userinput)
-print("\nThe user has given input!\n", userinput)
+local result = TestInput(user_input)
+print("\nThe user has given input!\n", user_input)

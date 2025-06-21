@@ -1,5 +1,5 @@
-message = "Hello, World!"
-condition = true
+local message = "Hello, World!"
+local condition = true
 
 function TestCondition(condition)
     if condition then
@@ -9,7 +9,7 @@ function TestCondition(condition)
     end
 end
 
-result = TestCondition(condition)
+local result = TestCondition(condition)
 print(result)
 
 -- Output:

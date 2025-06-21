@@ -1,7 +1,7 @@
 print("Enter input.")
-userNumericalValue = io.read("n")
+local userNumericalValue = io.read("n")
 print("End value.")
-userNumericalEndValue = io.read("n")
+local userNumericalEndValue = io.read("n")
 
 while userNumericalValue < userNumericalEndValue do
     userNumericalValue = userNumericalValue + 1
